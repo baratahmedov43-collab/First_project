@@ -8,3 +8,6 @@ def greeting():
 
 def welcome():
     print("You are welcome")
+
+def good_words():
+    print("You are the greatest")
