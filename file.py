@@ -5,3 +5,6 @@ print(a / b)
 
 def greeting():
     print("Hello")
+
+def welcome():
+    print("You are welcome")
