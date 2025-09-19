@@ -8,3 +8,6 @@ def greeting():
 
 def welcome():
     print("You are welcome")
+
+def question():
+    print("What is your name?")
