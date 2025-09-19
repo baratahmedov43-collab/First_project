@@ -11,3 +11,6 @@ def welcome():
 
 def question():
     print("What is your name?")
+
+def question2():
+    print("What is your favorite language?")
