@@ -9,5 +9,12 @@ def greeting():
 def welcome():
     print("You are welcome")
 
+
 def good_words():
     print("You are the greatest")
+
+def question():
+    print("What is your name?")
+
+def question2():
+    print("What is your favorite language?")
